@@ -1766,6 +1766,15 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-rl0P7URziB .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rl0P7URziB .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
+}
 .cid-rlt9JY3NcV {
   padding-top: 90px;
   padding-bottom: 90px;
